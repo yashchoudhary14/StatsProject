@@ -1,0 +1,5 @@
+Test,Data,Statistic,df,p_value
+H0: lam_1 = lam_2 = lam_3 (common scale),Complete,0.8587446365207256,2,0.6509175355755648
+H0: alpha_1 = alpha_2 = alpha_3 (no period effect),Complete,5.938237273709092,2,0.05134854711097208
+H0: alpha_1 = alpha_2 = alpha_3 (no period effect),Scheme 1,3.913601797217993,2,0.14130976285071684
+H0: alpha_1 = alpha_2 = alpha_3 (no period effect),Scheme 2,7.26592608762153,2,0.026437732079040023

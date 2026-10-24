@@ -1,0 +1,4 @@
+Design,cases,D,mle_exists,mle_condition,info_ok,piv_trunc_prob,bu_ess,bor_ess,prior
+Complete,III III III,21 20 17,True,True,True,0.9999916677175723,13042.892405814984,13642.182518176627,"a0=1.000, b0=0.222, c=[0.609, 1.069, 1.322], lam~Gamma(1.000,0.398)"
+Scheme 1,I II II,12 14 13,True,True,True,0.8744522652031718,10238.731347602214,10760.072371880417,"a0=1.000, b0=0.359, c=[0.617, 1.045, 1.338], lam~Gamma(1.000,0.197)"
+Scheme 2,II III III,12 16 14,True,True,True,0.9900933075167507,11492.158959548957,11727.694857416365,"a0=1.000, b0=0.329, c=[0.509, 1.105, 1.386], lam~Gamma(1.000,0.199)"

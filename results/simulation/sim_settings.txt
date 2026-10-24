@@ -1,0 +1,5 @@
+true alpha = [0.5, 0.75, 1.0], true lam = 1.0, t0 = 1.0
+replications per design = 2000, pivotal draws = 1000, importance-sampling draws = 2000, seed = 20251005
+prior P1: a0=4.0000, b0=1.7778, c=[0.6667, 1.0, 1.3333], lam ~ Gamma(a=4.0000, b=4.0000)
+prior P2: a0=1.0000, b0=0.4444, c=[0.6667, 1.0, 1.3333], lam ~ Gamma(a=1.0000, b=1.0000)
+total run time = 644 s

@@ -1,0 +1,8 @@
+numpy
+scipy
+pandas
+matplotlib
+python-docx
+pypandoc_binary
+openpyxl
+pymupdf
